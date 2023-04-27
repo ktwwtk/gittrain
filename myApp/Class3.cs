@@ -4,6 +4,7 @@ namespace Szkolenie
     {
         public Class3()
         {
+            // I am doing something
         }
 
         internal void DoSomething()
