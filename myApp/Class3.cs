@@ -4,12 +4,15 @@ namespace Szkolenie
     {
         public Class3()
         {
-            // I am doing something
+            // I am doing something.
         }
 
+// change 1
         internal void DoSomething()
         {
             throw new NotImplementedException();
         }
     }
 }
+
+//change 2
